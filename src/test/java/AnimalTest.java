@@ -13,7 +13,7 @@ public class AnimalTest {
     public ExpectedException expectedEx = ExpectedException.none();
 
     @Test
-    public void getFamilyIsCorrect() {
+    public void getFamilyCorrect() {
         String expectedString = "Существует несколько семейств: заячьи, беличьи, мышиные, кошачьи, псовые, медвежьи, куньи";
 
         MatcherAssert.assertThat("Неправильный список семейств",

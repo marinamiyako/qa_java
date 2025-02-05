@@ -1,4 +1,4 @@
-package com.example;
+import com.example.Animal;
 
 import org.hamcrest.MatcherAssert;
 import org.junit.Rule;

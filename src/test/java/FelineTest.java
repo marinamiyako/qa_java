@@ -1,4 +1,4 @@
-package com.example;
+import com.example.Feline;
 
 import org.hamcrest.MatcherAssert;
 import org.junit.Test;
